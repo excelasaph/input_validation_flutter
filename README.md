@@ -1,16 +1,19 @@
-# two_screen
+# Input Validation in Flutter
 
-A new Flutter project.
+## Project Overview
+This project is a multi-form Flutter application designed to validate user inputs across at least two screens. It implements robust input validation for fields such as Name, Email, and Phone Number while ensuring a smooth navigation experience.
 
-## Getting Started
+## Project Features
+- **Input Validation:** The application consists of two separate screens with various input fields.
+- **Validator:**
+  - **Name:** Ensures the field is not empty.
+  - **Email:** Validates the format using a regex pattern.
+  - **Phone Number:** Checks if the input consists of valid digits and a suitable length.
+- **Error Messages:** Clear error messages are displayed when invalid input is provided.
+- **Navigation:** Users can navigate between screens seamlessly.
+- **Structured Code:**
+  - `main.dart` contains only the `void main()` method, `runApp()`, and core logic.
+  - Screens are implemented in separate files for maintainability.
+- **User Interface:** Though aesthetics were not a primary requirement, the UI is clean and user-friendly.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
