@@ -1,0 +1,2 @@
+C:/Users/Excel/Desktop/flutter_projects/two_screen/android/app/.cxx/Debug/322o7010/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Excel/Desktop/flutter_projects/two_screen/android/app/.cxx/Debug/322o7010/arm64-v8a/CMakeFiles/rebuild_cache.dir
